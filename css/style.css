@@ -485,7 +485,7 @@ label {
   position: relative;
 }
 #ocean-container {
-  height: 700px;
+  max-height: 100%;
   width: 100%;
 }
 #col-footer-1 {
